@@ -1,9 +1,4 @@
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Aakash....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Aakash
 
 - 👋 Hi, I’m @AakashDevilstar
 - 👀 I’m interested in Making Many projects and Enhance my Problem solving skills...

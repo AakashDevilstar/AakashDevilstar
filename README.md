@@ -23,6 +23,14 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
 </div>
+<hr>
+🙋‍♀️ Let's Connect
+<p align="center">
+	<a href="mailto:aakashraturi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+       <a href="https://leetcode.com/luciferraturi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
+	
+</p>
+
 
 <br>
 <!---

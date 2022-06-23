@@ -23,6 +23,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   
 </div>
+<br>
 <hr>
 🙋‍♀️ Let's Connect
 <p align="center">
@@ -30,8 +31,7 @@
        <a href="https://leetcode.com/luciferraturi/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"  alt="LinkedIn"/></a>
 	
 </p>
-
-
+<hr>
 <br>
 <!---
 AakashDevilstar/AakashDevilstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
